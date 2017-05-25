@@ -1,4 +1,4 @@
 # Job Descriptions
 
-This is a common repository for some common job descriptions in GovTech.
+This is a repository for some common job descriptions in GovTech.
 
