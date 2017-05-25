@@ -8,6 +8,6 @@ This is a repository for some common job descriptions in GovTech. These JDs will
 - [DevOps engineer](DevOps_Engineer.md)
 - [Software engineer](Software_Engineer.md)
 
-## Job openings
+## Openings
 
 - Data Science Division: http://idagds.bamboohr.com/jobs
