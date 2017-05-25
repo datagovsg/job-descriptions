@@ -7,7 +7,7 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 - Design and develop data warehouse solutions, data models and ETL processes.
 - Work closely with product managers, data scientists and engineers to develop, test and deploy new data products.
 - Define, monitor and report SLAs for data products.
-- Learn new things from other team members in a multi-disciplinary team.
+- Learn and share knowledge in a multi-disciplinary team.
 
 ## How to Succeed:
 
