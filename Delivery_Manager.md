@@ -7,7 +7,7 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 ## What to Expect:
 
 - _Manage Product Delivery Timelines:_ Ensure products intended for whole-of-government get delivered on time by closely tracking the progress of a software product, coaching and enabling the team where needed. 
-- Manage Team Dynamics:_ Encourage and motivate the team, buffer the team from non-product development activities and preserve the team’s focus on product delivery. Coach, facilitate and enable a team by encouraging members to question if they are doing the most important thing in the best way. happy and healthy team.
+- Manage Team Dynamics:_ Encourage and motivate the team, buffer the team from non-product development activities and preserve the teamâ€™s focus on product delivery. Coach, facilitate and enable a team by encouraging members to question if they are doing the most important thing in the best way. happy and healthy team.
 - Delivery Support:_ Support the team through project management activities such as tracking finances, hiring and recruitment, managing relationships with vendors and executive management (in support of the product owner). Triage run-time issues, and actively clear production impediments, so that product owners/ managers can focus on product discovery and ensuring the team has a strong, validated product backlog.
 - Business Modelling and Marketing:_ Develop product pricing and positioning strategies. Negotiate with vendors and develop marketing plans. Effectively communicate recommendations to executive management, and create buy-in with customers.
 
