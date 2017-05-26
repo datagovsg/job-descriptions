@@ -7,7 +7,7 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 ## What to Expect:
 
 - Manage Product Delivery Timelines: Ensure products are delivered on time by closely tracking the progress of a software product, coaching and enabling the team where needed. 
-- Manage Team Dynamics: As an Agile coach, encourage and motivate the team. Institute an Agile product delivery ethos, encouraging members to do the most important thing in the best way. Facilitate and preserve the team’s focus on product delivery. Enable the team by being a buffer from non-product development activities, and maintain the health and happiness of the team. 
+- Manage Team Dynamics: As an Agile coach, encourage and motivate the team. Institute best practices from Agile, encouraging members to do the most important thing in the best way. Facilitate and preserve the team’s focus on product delivery. Enable the team by being a buffer from non-product development activities, and maintain the health and happiness of the team. 
 - Delivery Support: Support the team through project management activities such as tracking finances, hiring and recruitment, managing relationships with vendors and executive management. Triage run-time issues, and actively clear development impediments.
 - Business Modelling and Marketing: Develop business plans, including product pricing, negotiations with vendors, and channel strategies. Effectively communicate recommendations to executive management, and create buy-in with customers.
 
