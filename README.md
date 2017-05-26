@@ -7,6 +7,8 @@ This is a repository for some common job descriptions in GovTech. These JDs will
 - [Data engineer](Data_Engineer.md)
 - [DevOps engineer](DevOps_Engineer.md)
 - [Software engineer](Software_Engineer.md)
+- [Product Owner](Product Owner.md) 
+- [Product Delivery Manager](Delivery Manager.md) 
 
 ## Openings
 
