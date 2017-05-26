@@ -15,7 +15,7 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 
 - A degree in Computer Science, Engineering or equivalent practical experience.
 - Experience designing and developing data warehouse solutions, data models and ETL processes.
-- Proficiency in a programming language (preferably Python or Scala) and SQL.
+- Proficiency in both a programming language (preferably Python or Scala) and SQL.
 - Knowledge of relational and non-relational databases.
 - Knowledge of machine learning a plus.
 - Knowledge of technologies like Hadoop, Spark and Beam a plus.

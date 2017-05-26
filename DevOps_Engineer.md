@@ -15,7 +15,6 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 ## How to Succeed:
 
 - A degree in Computer Science, Engineering or equivalent practical experience.
-- Experience developing scripts and using tools to automate software builds, releases and deployments.
 - Proficiency in a programming language (preferably Python or Scala) and familiarity with SQL.
 - Experience using tools like Git, Docker and Ansible.
 - Knowledge of automation and monitoring tools like TeamCity, Jenkins and ELK stack a plus.
