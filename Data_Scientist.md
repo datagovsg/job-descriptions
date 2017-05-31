@@ -4,7 +4,7 @@
 
 The Government Digital Services (GDS) group in GovTech uses technology and data to deliver a great digital experience, creating a more connected Singapore.
 
-Data scientists in GovTech help crack challenging problems through the use of machine learning and other computational methods on government data. You will have the opportunity to work on a variety of challenges in domains ranging from citizen engagement, healthcare, transport and operations.
+Data scientists in GovTech help crack challenging problems through the use of machine learning and other computational methods on government data. You would have the opportunity to work across domains like citizen engagement, healthcare, transport and operations.
 
 ## What to Expect:
 
