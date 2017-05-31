@@ -17,10 +17,11 @@ Data scientists in GovTech help crack challenging problems through the use of ma
 
 - An advanced degree in Computer Science, Mathematics, Statistics, Operations Research or equivalent practical experience.
 - Proficiency in a programming language (preferably Python or Scala) and familiarity with SQL.
-- Experience implementing machine learning solutions, including the application of techniques like feature engineering and model validation.
+- Experience implementing machine learning solutions, including familiarity with feature engineering and model validation.
 - Knowledge of statistics.
 - Knowledge of relational and non-relational databases.
-- Knowledge of technologies like Hadoop, Spark and Beam a plus.
+- Knowledge of deep learning a plus.
+- Knowledge of technologies like Hadoop, Spark, Beam and TensorFlow a plus.
 - Familiarity with engineering best practices like testing and Continuous Integration a plus.
 - Ability to communicate methods and findings clearly to laypeople.
 - Ability to work comfortably in an Agile and fast-paced environment.
