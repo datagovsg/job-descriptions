@@ -23,9 +23,3 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 - Degree in Computer Science or Engineering preferred
 - Interest in machine learning and data products a plus
 
-
-
-## Qualities for Interviewer's Assessment:
-- Strong problem solving skills and willingness to roll up one’s sleeves to complete the job
-- Comfortable working in a cross-function team
-- Proactive self-starter with an analytical mind 
