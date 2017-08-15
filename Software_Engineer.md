@@ -17,5 +17,5 @@ The Government Digital Services (GDS) group in GovTech uses technology and data 
 - Experience in API development and web MVC frameworks.
 - Proficiency in JavaScript and a second programming language (preferably Python or Scala).
 - Knowledge of relational and non-relational databases.
-- Knowledge of distributed computing concepts like the Actor Model a plus.
+- Familiarity with distributed systems concepts like MapReduce and the Actor Model a plus.
 - Ability to work comfortably in an Agile and fast-paced environment.
