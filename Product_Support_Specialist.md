@@ -8,13 +8,13 @@ Product Support Specialist drives the success of customer experience and provide
 The ideal candidate must have the passion and desire to create highly satisfied customers, and advance their own knowledge and gather feedback to improve our Products.
 
 ## What to Expect:
-- Spend your time interacting with users by email, chat and phone supporting products such as Beeline, Parking.sg and other new platforms along the way. 
+- Spend your time interacting with users by email, chat and phone supporting our Products.
 - Optimize our internal and external documentation to improve customer support. e.g. Product FAQ, customer handling guidebook etc.
-- Work closely with Product Managers, Engineers and UX Designers across the team to improve our products.
+- Work closely with Product Managers, Engineers and UX Designers across the team by contributing customers'point of view to improve our Products.
 - Identify and initiate changes to help scale our operations.
 - Gain unique insights into how users uses our products.
 - Collaborate with Product Manager across the team to launch new products.
-- Learn how each of our products operates from the ground up.
+- Learn how each of our Products operates from the ground up.
 
 ## We’re looking for people who:
 - Love helping others solve problems.
