@@ -1,25 +1,57 @@
 [:back: Back to main](README.md)
 
-# Product Manager (Data Science Platforms)
+# Product Manager (Data Products)
 
-The Government Digital Services (GDS) group in GovTech uses technology and data to deliver a great digital experience, creating a more connected Singapore.
+GovTech's Data Science and AI team uses technology and data to help the government deliver a great digital experience.
 
-## What to Expect:
+## What the role is
 
-- Product Inception and Evolution: Interface with product participants and stakeholders, including government agencies, analysts, developers, competitors, vendors and executive management to assimilate critical information for product visioning and developing product prospects. 
-- Product Visioning: Set long-term vision and strategy for products. Optimise products to achieve business goals, while maximising returns on investment for whole-of-Government.
-- Product Evangelist: Create awareness and buy-in for the product vision both internally and externally. Using product roadmaps and evidence, convey the “why” behind the products you build, and the strategic decisions you take. 
-- Product Building: Translate the product strategy into detailed, actionable plans/ technical requirements for analysts and development teams. Work with infrastructure teams to determine appropriate system architecture, design data models, databases, applications and system functionalities.
-- Product Ownership: Work closely with engineering teams as a product owner. Scope and prioritise activities based on business and customer impact. Plans should comprise incremental improvements and iterative development towards the final product vision. Solve problems as they pop up.
-- Drive Growth: Be the voice of the user, actively test the product with users and get feedback first hand. Gain a good understanding of customer experience, generate new ideas that grow market share, improve customer experience and drive growth.
+Product managers help make sure the right things get done. At a high level, this means establishing a clear vision for what a product should be and what needs to be done to get there. On a day to day basis, this means handling all the different facets of a project and making sure they are coordinated. And at the core, this means building a foundation of knowledge across user needs, technical constraints, and design goals so you can act as a bridge across all of them.
 
+As part of the Data Products team, you will build software for government agencies to better understand and use their data to improve operations and decision making.
 
-## How to Succeed:
+## Concretely this means: 
 
-- Practical experience in product management or software engineering
-- Understanding of technology stacks and level of effort required to deliver product features. 
-- Knowledge of data analytics and web technologies will be an added advantage
-- Excellent stakeholder management skills
-- Degree in Computer Science or Engineering preferred
-- Interest in machine learning and data products a plus
+- Understanding users better than anyone else 
+  - Conducting user studies to understand their needs and problems 
+  - Analysing data to uncover usage patterns that inform product decisions 
+  - Researching the industry to understand existing solutions 
+  
+- Keeping things organised 
+  - Running efficient meetings to keep people updated and make good decisions 
+  - Prioritising, planning, and tracking what needs to be done 
+  - Documenting key information and decisions about the product 
+  
+- Communicating across teams 
+  - Explaining technical considerations to non-technical audiences 
+  - Public-speaking, giving presentations and writing papers
+  - Identifying key stakeholders, including government agencies, industry partners and the broader tech community, and convincing them to give their support
+  - Coordinating efforts across multiple functions including marketing, legal and finance
 
+- Making good product decisions 
+  - Working with designers to create intuitive user experiences 
+  - Creating multiple proposals for the many forms a product can take 
+  - Driving the team toward consensus on what the product should be 
+
+- Work closely with the engineering team
+  - Translating the product strategy into detailed, actionable plans for business and engineering teams
+  
+You will work on meaningful projects that solve problems pertinent to our society, from transportation, to education, to healthcare. The public sector is full of opportunities where even the simplest software can have a big impact on people’s lives. We are here to improve how we live as a society through what we can offer as a government. 
+
+## What it is like working here
+
+- **Rapid Prototyping** - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily. 
+- **Ownership** - In addition to technical responsibilities, this means having opinions on what is being done and having ideas on what should be done next. Building something that you believe in is the best way to build something good. 
+- **Continuous Learning** - Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages is not just encouraged but essential. 
+
+## What we are looking for 
+
+We look for people who: 
+
+- Have experience writing code
+- Can analyse and use data to solve problems
+- Have an interest in data science and machine learning
+- Have good design sense 
+- Have solid communication and stakeholder management skills
+- Take initiative to make things happen
+- Want to work for the public good
