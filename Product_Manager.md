@@ -1,6 +1,8 @@
 [:back: Back to main](README.md)
 
-# Product Manager (Data Products)
+# Product Manager (Data Science Products)
+
+## Who we are
 
 GovTech's Data Science and AI team uses technology and data to help the government deliver a great digital experience.
 
@@ -10,7 +12,7 @@ Product managers help make sure the right things get done. At a high level, this
 
 As part of the Data Products team, you will build software for government agencies to better understand and use their data to improve operations and decision making.
 
-## Concretely this means: 
+Concretely this means: 
 
 - Understanding users better than anyone else 
   - Conducting user studies to understand their needs and problems 
