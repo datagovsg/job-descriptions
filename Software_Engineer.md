@@ -2,7 +2,7 @@
 
 # Software Engineer (Data Science Products)
 
-GovTech's Data Science team uses technology and data to help deliver high-quality digital services to citizens and businesses in Singapore.
+GovTech's Data Science team uses technology and data to help deliver high-quality digital services to citizens and businesses in Singapore. We build software for government agencies to better understand and use their data to improve operations and decision making.
 
 ## What the role is
 

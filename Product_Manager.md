@@ -4,13 +4,11 @@
 
 ## Who we are
 
-GovTech's Data Science team uses technology and data to help deliver high-quality digital services to citizens and businesses in Singapore.
+GovTech's Data Science team uses technology and data to help deliver high-quality digital services to citizens and businesses in Singapore. We build software for government agencies to better understand and use their data to improve operations and decision making.
 
 ## What the role is
 
 Product managers help make sure the right things get done. At a high level, this means establishing a clear vision for what a product should be and what needs to be done to get there. On a day to day basis, this means handling all the different facets of a project and making sure they are coordinated. And at the core, this means building a foundation of knowledge across user needs, technical constraints, and design goals so you can act as a bridge across all of them.
-
-As part of the Data Products team, you will build software for government agencies to better understand and use their data to improve operations and decision making.
 
 Concretely this means: 
 
