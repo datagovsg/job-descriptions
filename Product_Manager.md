@@ -4,7 +4,7 @@
 
 ## Who we are
 
-GovTech's Data Science and AI team uses technology and data to help the government deliver a great digital experience.
+GovTech's Data Science team uses technology and data to help deliver high-quality digital services to citizens and businesses in Singapore.
 
 ## What the role is
 
@@ -37,10 +37,10 @@ Concretely this means:
 
 - Work closely with the engineering team
   - Translating the product strategy into detailed, actionable plans for business and engineering teams
-  
-You will work on meaningful projects that solve problems pertinent to our society, from transportation, to education, to healthcare. The public sector is full of opportunities where even the simplest software can have a big impact on people’s lives. We are here to improve how we live as a society through what we can offer as a government. 
 
 ## What it is like working here
+
+You will work on meaningful projects that solve problems pertinent to our society, from transportation, to education, to healthcare. The public sector is full of opportunities where even the simplest software can have a big impact on people’s lives. We are here to improve how we live as a society through what we can offer as a government. 
 
 - **Rapid Prototyping** - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily. 
 - **Ownership** - In addition to technical responsibilities, this means having opinions on what is being done and having ideas on what should be done next. Building something that you believe in is the best way to build something good. 
