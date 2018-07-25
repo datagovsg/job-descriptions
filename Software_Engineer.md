@@ -10,7 +10,7 @@ GovTech's Data Science team uses technology and data to help deliver high-qualit
 
 As a software engineer, you will:
 
-- Build prototypes to demostrate technology opportunities
+- Build prototypes to demonstrate technology opportunities
 - Design system architectures
 - Write production quality code, and
 - Manage deployments to cloud and (occasionally) on-premise infrastructure
